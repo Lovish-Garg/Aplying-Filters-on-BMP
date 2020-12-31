@@ -20,6 +20,11 @@ This program is not OS specific and this program will also work in Linux or any 
 <h4>Some bmp files and their output files are also provided in thsi repository in Output and Images folder</h4>
 
 <h3>Here are some examples:</h3>
+
+<p>Command: ./filter -e images/yard.bmp Output/yard.bmp<br><h1>Original:<h1></p>
+<img src = "images/yard.bmp" alt = "Pic of yard.bmp">
+<h1>Edge-Detection</h1><img src = "Output/yard.bmp" alt = Output "Pic of Output yard.bmp">
+ 
 <p>Command: ./filter -g images/stadium.bmp Output/stadium.bmp<br><h1>Original:<h1></p>
 <img src = "images/stadium.bmp" alt = "Pic of Stadium.bmp">
 <h1>Grayscale</h1><img src = "Output/stadium.bmp" alt = Output "Pic of Stadium.bmp">
@@ -35,8 +40,4 @@ This program is not OS specific and this program will also work in Linux or any 
 <p>Command: ./filter -b images/tower.bmp Output/tower.bmp<br><h1>Original:<h1></p>
 <img src = "images/tower.bmp" alt = "Pic of tower.bmp">
 <h1>Blur</h1><img src = "Output/tower.bmp" alt = Output "Pic of Output tower.bmp">
-  
-<p>Command: ./filter -e images/yard.bmp Output/yard.bmp<br><h1>Original:<h1></p>
-<img src = "images/yard.bmp" alt = "Pic of yard.bmp">
-<h1>Edge-Detection</h1><img src = "Output/yard.bmp" alt = Output "Pic of Output yard.bmp">
   
