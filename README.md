@@ -32,12 +32,12 @@ This program is not OS specific and this program will also work in Linux or any 
 <p>Command: ./filter -s images/courtyard.bmp Output/courtyard.bmp<br><h1>Original:<h1></p>
 <img src = "images/courtyard.bmp" alt = "Pic of courtyard.bmp">
 <h1>Sepia</h1><img src = "Output/courtyard2.bmp" alt = Output "Pic of Output courtyard.bmp">
- 
-<p>Command: ./filter -r images/courtyard.bmp Output/courtyard2.bmp<br><h1>Original:<h1></p>
-<img src = "images/courtyard.bmp" alt = "Pic of courtyard.bmp">
-<h1>Reflected</h1><img src = "Output/courtyard.bmp" alt = Output "Pic of Output courtyard.bmp">
   
 <p>Command: ./filter -b images/tower.bmp Output/tower.bmp<br><h1>Original:<h1></p>
 <img src = "images/tower.bmp" alt = "Pic of tower.bmp">
 <h1>Blur</h1><img src = "Output/tower.bmp" alt = Output "Pic of Output tower.bmp">
+ 
+<p>Command: ./filter -r images/courtyard.bmp Output/courtyard2.bmp<br><h1>Original:<h1></p>
+<img src = "images/courtyard.bmp" alt = "Pic of courtyard.bmp">
+<h1>Reflected</h1><img src = "Output/courtyard.bmp" alt = Output "Pic of Output courtyard.bmp">
   
