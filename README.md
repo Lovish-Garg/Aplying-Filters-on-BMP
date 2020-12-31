@@ -41,3 +41,5 @@ This program is not OS specific and this program will also work in Linux or any 
 <img src = "images/courtyard.bmp" alt = "Pic of courtyard.bmp">
 <h1>Reflected</h1><img src = "Output/courtyard.bmp" alt = Output "Pic of Output courtyard.bmp">
   
+
+<h4>I had actually implemented this program in CS50x course but this program only worked in CS50 ide but not on my local. So i did some changes and it worked. If you want to see that CS50x code which is mostly similar to this code is available <a href = ""https://github.com/Lovish-Garg/cs50/tree/master/pset4/filter>here<a></h4>
